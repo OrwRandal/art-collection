@@ -8,6 +8,6 @@ const ImageLister = ({images, handleClick}) => {
         })}
       </div>
   )
-}
+} 
 
 export default ImageLister
